@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="3d03e27b-7611-4986-9d2b-5d558f129942" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/com/java/test/TestGit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/java/test/TestGit.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -66,7 +67,6 @@
       <option name="presentableId" value="Default" />
       <updated>1577092653441</updated>
       <workItem from="1577092657054" duration="704000" />
-      <workItem from="1577093803221" duration="115000" />
     </task>
     <task id="LOCAL-00001" summary="测试Git提交项目">
       <created>1577092792951</created>
@@ -110,9 +110,9 @@
       <screen x="0" y="0" width="1536" height="824" />
     </state>
     <state x="679" y="151" key="Vcs.Push.Dialog.v2/0.0.1536.824@0.0.1536.824" timestamp="1577093132036" />
-    <state x="776" y="217" key="git4idea.merge.GitPullDialog" timestamp="1577093925391">
+    <state x="776" y="217" key="git4idea.merge.GitPullDialog" timestamp="1577093370433">
       <screen x="0" y="0" width="1536" height="824" />
     </state>
-    <state x="776" y="217" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1577093925391" />
+    <state x="776" y="217" key="git4idea.merge.GitPullDialog/0.0.1536.824@0.0.1536.824" timestamp="1577093370433" />
   </component>
 </project>
